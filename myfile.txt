@@ -1,4 +1,4 @@
-Our First Class
+Our Lecture Class
 Become familiar with GitHub
 Understood how to create Repositorie
 Understand hoe to access Repositorie using command promte
