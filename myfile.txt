@@ -1,1 +1,24 @@
-This is my first text fileebd
+Our First Class
+Become familiar with GitHub
+Understood how to create Repositorie
+Understand hoe to access Repositorie using command promte
+Code in Repositorie
+Back push on GitHub
+
+COMMAND PROMTE
+cd command to acces the folder 
+i.e cd Desktop to access files on Desktop
+
+cd "Name of Repositorie"
+i.e to access the Repositorie
+
+code .
+i.e To start code through VS code 
+
+HOW TO PUSH Repositorie
+To access the terminal in VS Code ctrl + ~
+
+git add .
+git commit -m "Any commit you want to give your Repositorie"
+git push
+your Repositorie is successfully push to Github
